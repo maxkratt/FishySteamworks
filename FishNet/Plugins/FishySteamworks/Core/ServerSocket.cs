@@ -211,6 +211,9 @@ namespace FishySteamworks.Server
             }
 
             _pendingConnectionChanges.Clear();
+            _steamConnections.Clear();
+            _steamIds.Clear();
+
             if (base.GetLocalConnectionState() == LocalConnectionState.Stopped)
                 return false;
 

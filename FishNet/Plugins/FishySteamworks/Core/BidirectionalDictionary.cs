@@ -71,6 +71,12 @@ namespace FishySteamworks
             }
         }
 
+        public void Clear()
+        {
+            t1ToT2Dict.Clear();
+            t2ToT1Dict.Clear();
+        }
+
         public T1 this[T2 key]
         {
             get => t2ToT1Dict[key];
