@@ -15,9 +15,9 @@ These projects need to be installed and working before you can use this transpor
 
 ## Installation
 
-1. Download the latest release from the [releases](https://github.com/FirstGearGames/FishySteamworks/releases) page.
-2. Open and import FishySteamworks.unitypackage into your project.
-3. Set up your project as described below.
+Install directly through the Git URL: https://github.com/maxkratt/FishySteamworks.git?path=/FishNet/Plugins
+
+Or you can download the UnityPackage [here](https://github.com/maxkratt/FishySteamworks/releases).
 
 ## Setting Up
 

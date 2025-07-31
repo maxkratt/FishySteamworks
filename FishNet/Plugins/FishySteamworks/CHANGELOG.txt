@@ -1,3 +1,7 @@
+4.1.2
+	- Fixed server not clearing Steam ID collections.
+    - Updated package format.
+
 4.1.1
     - Added check for server connection start failure (#14).
     - Fixed collection modified error on server (#13).
